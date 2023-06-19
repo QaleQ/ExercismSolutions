@@ -1,6 +1,4 @@
-﻿using System;
-
-class RemoteControlCar
+﻿class RemoteControlCar
 {
     int battery = 100;
     int distance;
